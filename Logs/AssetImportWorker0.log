@@ -333,3 +333,4 @@ Received Import Request.
 Start importing Assets/2DGamekit/Art/Sprites/Utilities/BlankSprite.png using Guid(f7b6513722649314d945ddac9e52b3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24d227b27dcd6e377f956aa3687ffb4') in 0.007422 seconds 
   Import took 0.011093 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
